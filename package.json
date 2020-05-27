@@ -1,0 +1,23 @@
+{
+  "name": "get-sheet",
+  "version": "1.0.0",
+  "description": "Get all spreadsheet",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trickascp/get-sheet.git"
+  },
+  "keywords": [
+    "google"
+  ],
+  "author": "Trickas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trickascp/get-sheet/issues"
+  },
+  "homepage": "https://github.com/Trickascp/get-sheet#readme"
+}

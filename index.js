@@ -98,21 +98,3 @@ const GoogleSheet = function (cred) {
 };
 
 module.exports = GoogleSheet;
-
-// const doc = new GoogleSheet(cred);
-
-// let id = '14mG-7UuuAgfQZY3xWaVCigZNTJmZRBWSYUz6HDG88Hc'
-
-// let opt = {
-//   sheet: 'sheet1',
-// }
-
-// doc.header(id, opt)
-// .then(res => {
-//   console.log(res)
-// })
-
-// doc.allRows(id, opt)
-// .then(res => {
-//   console.log(res)
-// })

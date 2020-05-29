@@ -14,7 +14,7 @@ doc.header(id, opt)
 })
 ```
 
-## Get All Rows
+## Get All Rowss
 
 ```
 

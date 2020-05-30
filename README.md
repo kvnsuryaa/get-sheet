@@ -8,10 +8,11 @@ Get all google spreadsheet datas with get-sheet
 npm install get-sheet
 ```
 
-## Get All Rows
+## Get All Header
 
 ```
 const GoogleSheet = require('get-sheet')
+const cred = require('./client_secret.json')
 
 const doc = new GoogleSheet(cred);
 
@@ -27,10 +28,11 @@ doc.header(id, opt)
 })
 ```
 
-## Get All Rowss
+## Get All Rows
 
 ```
 const GoogleSheet = require('get-sheet')
+const cred = require('./client_secret.json')
 
 const doc = new GoogleSheet(cred);
 
@@ -45,3 +47,6 @@ doc.allRows(id, opt)
   console.log(res)
 })
 ```
+
+If you find a bug please email me :))
+trickas91@gmail.com

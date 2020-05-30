@@ -11,7 +11,14 @@
     "url": "git+https://github.com/Trickascp/get-sheet.git"
   },
   "keywords": [
-    "google"
+    "google spreadsheets",
+    "google",
+    "spreadsheet",
+    "spreadsheets",
+    "sheets",
+    "gdata",
+    "api",
+    "google sheets"
   ],
   "author": "Trickas",
   "license": "ISC",

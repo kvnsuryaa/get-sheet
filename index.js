@@ -1,7 +1,5 @@
 const { google } = require("googleapis");
 
-const cred = require("./client_secret.json");
-
 const GoogleSheet = function (cred) {
   const AUTH = new google.auth.JWT(cred.client_email, null, cred.private_key, [
     "https://www.googleapis.com/auth/spreadsheets",

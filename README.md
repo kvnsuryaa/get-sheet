@@ -48,5 +48,4 @@ doc.allRows(id, opt)
 })
 ```
 
-If you find a bug please email me :))
-trickas91@gmail.com
+Thank you for using :))
